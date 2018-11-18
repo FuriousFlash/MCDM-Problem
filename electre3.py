@@ -231,7 +231,7 @@ for i in range(l1):
 					pass
 				print("A" + str(i), "< A" + str(j))
 
-print(s)
+print("Best alternatives are:", s)
 """
 
 
